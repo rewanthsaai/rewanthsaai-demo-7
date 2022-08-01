@@ -17,6 +17,14 @@ git commands
 
 	    vi edit the file 
 
+            git merge 
+
+
+            thank you :) 
+
+	    rewanthsaai 
+
+	    final copy 
 
 
 
