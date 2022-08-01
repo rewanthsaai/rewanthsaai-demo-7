@@ -15,3 +15,12 @@ git commands
 	    vi <edit a file> 
 
 
+
+	    thank you :) 
+
+	    rewanthsaai 
+
+	    final copy 
+
+
+
